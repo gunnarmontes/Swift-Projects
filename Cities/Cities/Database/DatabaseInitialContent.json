@@ -1,0 +1,245 @@
+[
+    {
+        "name": "San Francisco",
+        "latitude": 37.7562,
+        "longitude": -122.443,
+        "country": "US",
+        "population": 3592294,
+        "region": "California",
+        "is_capital": false
+    },
+    {
+        "name": "Istanbul",
+        "latitude": 41.01,
+        "longitude": 28.9603,
+        "country": "TR",
+        "population": 15154000,
+        "region": "Marmara Region",
+        "is_capital": false
+    },
+    {
+        "name": "Tokyo",
+        "latitude": 35.6897,
+        "longitude": 139.692,
+        "country": "JP",
+        "population": 37977000,
+        "region": "N/A",
+        "is_capital": true
+    },
+    {
+        "name": "New York",
+        "latitude": 40.6943,
+        "longitude": -73.9249,
+        "country": "US",
+        "population": 18713220,
+        "region": "New York",
+        "is_capital": false
+    },
+    {
+        "name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "country": "FR",
+        "population": 11020000,
+        "region": "Ile-de-France",
+        "is_capital": true
+    },
+    {
+        "name": "Shanghai",
+        "latitude": 31.1667,
+        "longitude": 121.467,
+        "country": "CN",
+        "population": 22120000,
+        "region": "Shanghai",
+        "is_capital": false
+    },
+    {
+        "name": "London",
+        "latitude": 51.5072,
+        "longitude": -0.1275,
+        "country": "GB",
+        "population": 10979000,
+        "region": "England",
+        "is_capital": true
+    },
+    {
+        "name": "Moscow",
+        "latitude": 55.7558,
+        "longitude": 37.6178,
+        "country": "RU",
+        "population": 17125000,
+        "region": "Moscow",
+        "is_capital": true
+    },
+    {
+        "name": "Mumbai",
+        "latitude": 18.9667,
+        "longitude": 72.8333,
+        "country": "IN",
+        "population": 23355000,
+        "region": "Maharashtra",
+        "is_capital": false
+    },
+    {
+        "name": "Cairo",
+        "latitude": 30.0561,
+        "longitude": 31.2394,
+        "country": "EG",
+        "population": 19372000,
+        "region": "Cairo",
+        "is_capital": true
+    },
+    {
+        "name": "Seoul",
+        "latitude": 37.5833,
+        "longitude": 127,
+        "country": "KR",
+        "population": 21794000,
+        "region": "N/A",
+        "is_capital": true
+    },
+    {
+        "name": "Barcelona",
+        "latitude": 41.3825,
+        "longitude": 2.1769,
+        "country": "ES",
+        "population": 4588000,
+        "region": "Catalonia",
+        "is_capital": false
+    },
+    {
+        "name": "Dubai",
+        "latitude": 25.2697,
+        "longitude": 55.3094,
+        "country": "AE",
+        "population": 2502715,
+        "region": "Dubai",
+        "is_capital": false
+    },
+    {
+        "name": "Mexico City",
+        "latitude": 19.4333,
+        "longitude": -99.1333,
+        "country": "MX",
+        "population": 20996000,
+        "region": "N/A",
+        "is_capital": true
+    },
+    {
+        "name": "Berlin",
+        "latitude": 52.5167,
+        "longitude": 13.3833,
+        "country": "DE",
+        "population": 3644826,
+        "region": "N/A",
+        "is_capital": true
+    },
+    {
+        "name": "Buenos Aires",
+        "latitude": -34.5997,
+        "longitude": -58.3819,
+        "country": "AR",
+        "population": 16157000,
+        "region": "Autonomous City of Buenos Aires",
+        "is_capital": true
+    },
+    {
+        "name": "Amsterdam",
+        "latitude": 52.35,
+        "longitude": 4.9166,
+        "country": "NL",
+        "population": 1031000,
+        "region": "North Holland",
+        "is_capital": true
+    },
+    {
+        "name": "Vienna",
+        "latitude": 48.2083,
+        "longitude": 16.3731,
+        "country": "AT",
+        "population": 1840573,
+        "region": "N/A",
+        "is_capital": true
+    },
+    {
+        "name": "Athens",
+        "latitude": 37.9794,
+        "longitude": 23.7161,
+        "country": "GR",
+        "population": 664046,
+        "region": "Attica",
+        "is_capital": true
+    },
+    {
+        "name": "Rome",
+        "latitude": 41.8931,
+        "longitude": 12.4828,
+        "country": "IT",
+        "population": 2872800,
+        "region": "Lazio",
+        "is_capital": true
+    },
+    {
+        "name": "Rio De Janeiro",
+        "latitude": -22.9083,
+        "longitude": -43.1964,
+        "country": "BR",
+        "population": 12272000,
+        "region": "Rio de Janeiro",
+        "is_capital": false
+    },
+    {
+        "name": "Sydney",
+        "latitude": -33.865,
+        "longitude": 151.209,
+        "country": "AU",
+        "population": 5312163,
+        "region": "New South Wales",
+        "is_capital": false
+    },
+    {
+        "name": "Toronto",
+        "latitude": 43.7417,
+        "longitude": -79.3733,
+        "country": "CA",
+        "population": 5429524,
+        "region": "Ontario",
+        "is_capital": false
+    },
+    {
+        "name": "Munich",
+        "latitude": 48.1372,
+        "longitude": 11.5755,
+        "country": "DE",
+        "population": 1471508,
+        "region": "Bavaria",
+        "is_capital": false
+    },
+    {
+        "name": "Stockholm",
+        "latitude": 59.3294,
+        "longitude": 18.0686,
+        "country": "SE",
+        "population": 972647,
+        "region": "N/A",
+        "is_capital": true
+    },
+    {
+        "name": "Zurich",
+        "latitude": 47.3786,
+        "longitude": 8.54,
+        "country": "CH",
+        "population": 434008,
+        "region": "Zurich",
+        "is_capital": false
+    },
+    {
+        "name": "Bogota",
+        "latitude": 4.6126,
+        "longitude": -74.0705,
+        "country": "CO",
+        "population": 9464000,
+        "region": "RAP (Especial) Central",
+        "is_capital": true
+    }
+]
